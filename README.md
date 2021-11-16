@@ -1,7 +1,8 @@
-# Why this folder exists
-This folder serves as a template for structuring experimental projects.
+# Template for structuring an experimental project
 
-# What this folder contains
+This repository serves as a template for structuring the different types of files and information needed for an experimental project, e.g., code for your experiment, analysis, and final writing.
+
+It contains five subfolders:
 * **analyses**: should contain scripts to process, visualize and analyze the data
 * **data**: should contain the raw and preprocessed data from all experiments (pilot and main)
 * **experiment**: should contain everything relevant to understanding and reproducing the experiment
