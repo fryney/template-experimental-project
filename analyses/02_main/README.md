@@ -1,4 +1,4 @@
-# Content of this folder
+# Contents of this folder
 * **01_preprocessing.R** File for preprocessing of the data of the main experiment..
 * **02_data-plotting.R** File for plotting of the data of the main experiment.
 * **03_regression-models.R** File specifying the regression models.
